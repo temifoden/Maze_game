@@ -8,6 +8,9 @@
 #include "raycasting.h"
 //#include <stdio.h>
 
+/**
+ * code descr
+ *  */
 // Function to handle player input
 void handleContinuousInput(const Uint8* keystates, double moveSpeed, double rotSpeed)
 {

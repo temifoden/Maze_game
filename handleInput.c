@@ -7,6 +7,9 @@
 #include "raycasting.h"
 #include <stdio.h>
 
+/**
+ * code descr
+ */
 // Function to handle player input
 void handleInput(SDL_Keycode key, double moveSpeed, double rotSpeed)
 {

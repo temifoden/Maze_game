@@ -37,6 +37,9 @@ int map[MAP_WIDTH][MAP_HEIGHT] = {
       {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}
 };
 
+/**
+ * code description
+ */
 void render(SDL_Renderer* renderer) {
     // Draw ceiling
     SDL_SetRenderDrawColor(renderer, 135, 206, 235, 255); // Sky blue for ceiling

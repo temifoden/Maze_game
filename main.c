@@ -1,5 +1,8 @@
 #include "raycasting.h"
 
+/**
+ * code description here
+ */
 int main(int argc, char* args[]) {
     Uint32 oldTime = 0, currentTime = 0;
     SDL_Window* window = NULL;
